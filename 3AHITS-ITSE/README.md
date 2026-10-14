@@ -1,3 +1,12 @@
+# Arbeitsbericht vom 13.10.2026
+
+- Thema: Installation
+- Name: Fechete Luca
+- Klasse: 3AHITS Gruppe 1
+- Fach: ITSE Übungen
+
+# 
+
 # Einleitung für Kali & Metasploitable 
 
 ## Kali Virtuelle Maschine
