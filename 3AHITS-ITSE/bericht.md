@@ -29,7 +29,7 @@
 
 Hinweis: Mit den befehl ```ifconfig eth0``` zeigt er dir die ip addresse.
 
-## 
+
 
 ## Metasploitable
 
@@ -38,7 +38,7 @@ Hinweis: Mit den befehl ```ifconfig eth0``` zeigt er dir die ip addresse.
 3. Mit den befehl ```ifconfig eth0``` zeigt er dir die ip addresse von eth0.
 
 
-##
+
 
 ## Zusammen
 
