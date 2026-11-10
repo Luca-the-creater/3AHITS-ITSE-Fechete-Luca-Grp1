@@ -33,4 +33,4 @@ Hinweis: Mit den befehl ```ifconfig eth0``` zeigt er dir die ip addresse.
 
 ## Zusammen
 
-Schau ob die beiden Maschinen sich gegenseitig pingen
+Schau ob die beiden Maschinen sich gegenseitig verbinden mit den Befehl ``` ping [ip addresse]```.
